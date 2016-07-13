@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # my-repo
 
 Playing with [Software Carpentry at Oxford](http://jule32.github.io/2016-07-12-Oxford).
